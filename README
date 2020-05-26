@@ -1,0 +1,7 @@
+To set up this project on your local environment , take the following steps:
+
+1. creat a virtual environment using pipenv (tutorial to get you started: https://www.youtube.com/watch?v=6Qmnh5C4Pmo)
+2. install django version three in that virtual environment and django rest framework
+3. nagivate to the project and run the command: python manage.py runserver and your app we be running on http://127.0.0.1:8000/
+
+NB: if you follow the tutorial in step one carefull you might make use of the Pipfile within the project
